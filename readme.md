@@ -4,7 +4,8 @@
 
 Hi I'm Dave Alger. Thanks for stopping by.
 
-Any question I get in email (personal or professional) will now be responded to with a link [here](https://github.com/run-time/ama/issues/new). 
+Any question I get in email (personal or professional) will now be responded to with a link to this page.
+
 That way *anyone* can read the answer!
 
 ### Guidelines
